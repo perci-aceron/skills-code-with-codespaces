@@ -15,5 +15,5 @@
       ]
     }
   },
-  "postCreateCommand": "echo 'Container setup complete!'"
+  "postCreateCommand": "echo '# Writing code upon codespace creation!'  >> codespace.md"
 }
